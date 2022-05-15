@@ -13,4 +13,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/ahmed-chakhoum-4a4821123
-[gmail]: rainxh11@gmail.com
+[gmail]: mailto:rainxh11@gmail.com
