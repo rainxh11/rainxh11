@@ -1,16 +1,18 @@
-### Hi there 👋
+### i'm Ahmed, and i code stuff, also part of 50LAB:
+<img src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/50lab.svg" width="300">
 
-<!--
-**rainxh11/rainxh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I do ❤️ C# mostly, i highly recommend it 👍
+- I also do ❤️ Vue.js, TypeScript, Dart
+- I make open-source packages, libraries
+Any other cool tool, language, i'm either learning it or already using it
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+- LinkedIn:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/linkedin.png" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email:
+[<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/gmail.svg" />][gmail]
+
+
+[linkedin]: https://www.linkedin.com/in/ahmed-chakhoum-4a4821123
+[gmail]: rainxh11@gmail.com
