@@ -7,11 +7,9 @@
 Any other cool tool, language, i'm either learning it or already using it
 
 ## 📫 How to reach me:
-- LinkedIn:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/linkedin.png" />][linkedin]
 
-- Email:
-[<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/gmail.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/gmail.png" />][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/ahmed-chakhoum-4a4821123
