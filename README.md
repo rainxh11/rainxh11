@@ -11,6 +11,8 @@
 
 [<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/gmail.png" />][gmail]
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rainxh11&show_icons=true&hide_border=true&custom_title=Ahmed%20Chakhoum%20Stats" alt="rainxh11" />
+
 
 [linkedin]: https://www.linkedin.com/in/ahmed-chakhoum-4a4821123
 [gmail]: mailto:rainxh11@gmail.com
