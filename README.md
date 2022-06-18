@@ -6,13 +6,13 @@
 - I make open-source packages, libraries
 - Any other cool tool, language, i'm either learning it or already using it
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rainxh11&show_icons=true&hide_border=true&custom_title=Ahmed%20Chakhoum%20Stats" alt="rainxh11" />
+
+
 ## 📫 How to reach me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/linkedin.png" />][linkedin]
 
 [<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/gmail.png" />][gmail]
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rainxh11&show_icons=true&hide_border=true&custom_title=Ahmed%20Chakhoum%20Stats" alt="rainxh11" />
-
 
 [linkedin]: https://www.linkedin.com/in/ahmed-chakhoum-4a4821123
 [gmail]: mailto:rainxh11@gmail.com
