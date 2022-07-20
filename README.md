@@ -8,7 +8,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainxh11&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainxh11&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainxh11&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/linkedin.png" />][linkedin]
