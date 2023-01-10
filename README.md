@@ -22,8 +22,6 @@
 </div>
 <!-- Visitor Count -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainxh11&show_icons=true&theme=cobalt)
-
 <!-- START Contribution Graph SECTION -->
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
@@ -38,7 +36,16 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <!-- END Contribution Graph SECTION -->
 
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rainxh11&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+<!-- END My Github Profile Trophy SECTION -->
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainxh11&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainxh11&layout=compact&langs_count=10&hide=html,css,c++,cmake,sass,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
