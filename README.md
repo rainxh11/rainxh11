@@ -17,7 +17,7 @@
 <!-- Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  	
-<p align="center"><img align="center" src="https://madrasacloud.com/visit-count/generate/rainxh11" /></p> 
+<p align="center"><img align="center" src="https://madrasacloud.com/visit-count/generate/rainxh11.png" /></p> 
 <!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rainxh11}/count.svg" /></p> -->
 <br>
 </div>
