@@ -19,7 +19,10 @@
   <p align="center"><img align="center" src="http://185.218.125.107:9000/visit-count/generate/rainxh11.png?user=rainxh11" /></p> 
 <br>
 </div>
-Interested in how it was made? Check out this repository: [VisitCountImageGenerator](https://github.com/rainxh11/VisitCountImageGenerator)
+
+Interested in how it was made? Check out this repository:
+[VisitCountImageGenerator](https://github.com/rainxh11/VisitCountImageGenerator)
+
 
 <!-- Visitor Count -->
 
