@@ -1,10 +1,8 @@
 ## i'm Ahmed, and i code stuff, also part of 50LAB:
 <img src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/50lab.svg" width="300">
 
-- I do C# ❤️ mostly, i highly recommend it 👍
-- I also code Vue.js ❤️, TypeScript, Dart
-- I make open-source packages, libraries
-- Any other cool tool, language, i'm either learning it or already using it
+- I program in C# ❤️ mostly, i highly recommend it 👍
+- Also vue.js, react, solid.js, qwik, zig, rust and any new shiny thing in tech
 
 <!-- Dino -->
 <section>
