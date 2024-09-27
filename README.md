@@ -14,7 +14,7 @@
 
 <!-- Visitor Count -->
 <div align="center">
-  <p align="center"><img align="center" src="http://2.58.82.148:9000/visit-count/generate/rainxh11.png?user=rainxh11" /></p> 
+  <p align="center"><img align="center" src="https://madrasacloud.com:449/visit-count/generate/rainxh11.png?user=rainxh11" /></p> 
 <br>
 </div>
 
