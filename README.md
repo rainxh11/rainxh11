@@ -28,9 +28,7 @@ Interested in how it was made? Check out this repository:
 	
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=rainxh11&show_icons=true&theme=cobalt)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=rainxh11&layout=compact&theme=dark_github&hide=html,css,c++,cmake,sass,scss,less,shell)(https://github.com/anuraghazra/github-readme-
-stats)
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=rainxh11&layout=compact&theme=dark_github&hide=html,css,c++,cmake,sass,scss,less,shell)
 ## 📫 How to reach me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rainxh11/rainxh11/master/assets/linkedin.png" />][linkedin]
 
